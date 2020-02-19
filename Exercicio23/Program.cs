@@ -10,7 +10,7 @@ namespace Exercicio23
             int valor = int.Parse(Console.ReadLine());
             int nmr1 = 0;
             int nmr2 = 0;
-            int calculo = nmr1 / nmr2
+            int calculo = nmr1 / nmr2;
             for (int i = 0; i < valor; i++)
             {
                 Console.WriteLine("Digite um numero para divisão: ");
